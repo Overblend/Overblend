@@ -4,7 +4,7 @@
 
 ## Features
 
-- **AI Assistant — BlendAI**  
+- **AI Assistant - BlendAI**  
   Overblend includes **BlendAI**, an intelligent assistant that provides editing support, smart suggestions, and task automation to assist users throughout the editing process.
 
 - **Automated Content Pipeline**  
