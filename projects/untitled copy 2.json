@@ -1,0 +1,467 @@
+[
+    {
+        "aspect_ratio": [
+            9,
+            16
+        ],
+        "base_quality": "1080",
+        "export_settings": {
+            "fps": 30,
+            "quality": "1080"
+        },
+        "imported_files": {
+            "test_files/gta5.mp4": {
+                "description": "",
+                "max_length": 22400.0
+            },
+            "test_files/image.png": {
+                "description": "",
+                "max_length": -1
+            },
+            "test_files/musique.mp3": {
+                "max_length": 110062.58503401361,
+                "description": ""
+            }
+        },
+        "imported_toolkits": [
+            "default.toolkit"
+        ],
+        "name": "untitled.json",
+        "preview_settings": {
+            "fps": 30,
+            "quality": "480"
+        },
+        "section": [
+            0,
+            -1
+        ],
+        "time_created": "2025-04-08T23:10:26.791130",
+        "tracks": [
+            {
+                "id": "6fbf65f8-a609-4996-a8c2-a44def5b3886",
+                "is_muted": false,
+                "is_visible": true,
+                "type": "audio",
+                "z": 12
+            },
+            {
+                "id": "3004416c-fbfc-4243-8313-4f87c87e89da",
+                "is_muted": false,
+                "is_visible": true,
+                "type": "video",
+                "z": 14
+            },
+            {
+                "id": "26cb828f-5be2-4433-8547-5029a4376d6d",
+                "type": "video",
+                "z": 13,
+                "is_visible": true,
+                "is_muted": false
+            }
+        ],
+        "type": "project_information"
+    },
+    {
+        "id": "e3fdef4a-3486-4ece-8b11-1c618a24740b",
+        "type": "audio",
+        "file_path": "test_files/musique.mp3",
+        "channel": "6fbf65f8-a609-4996-a8c2-a44def5b3886",
+        "timeline_position": 0,
+        "timestamps": [
+            0,
+            110062.58503401361
+        ],
+        "audio_effects": {}
+    },
+    {
+        "__media_type": "image",
+        "channel": "3004416c-fbfc-4243-8313-4f87c87e89da",
+        "file_path": "test_files/image.png",
+        "id": "51c10917-e773-4d07-a5a6-4b27ba4bdf22",
+        "position": {
+            "0": [
+                "start",
+                [
+                    50,
+                    50
+                ]
+            ],
+            "100": [
+                "linear",
+                [
+                    50,
+                    50
+                ]
+            ]
+        },
+        "timeline_place": [
+            6000,
+            7000
+        ],
+        "type": "image",
+        "visual_effects": {}
+    },
+    {
+        "__media_type": "image",
+        "channel": "3004416c-fbfc-4243-8313-4f87c87e89da",
+        "file_path": "test_files/image.png",
+        "id": "81418c31-8f14-4cfd-b486-c9e08d02dcaf",
+        "position": {
+            "0": [
+                "start",
+                [
+                    50,
+                    50
+                ]
+            ],
+            "100": [
+                "linear",
+                [
+                    50,
+                    50
+                ]
+            ]
+        },
+        "timeline_place": [
+            10040,
+            14039
+        ],
+        "type": "image",
+        "visual_effects": {}
+    },
+    {
+        "channel": "3004416c-fbfc-4243-8313-4f87c87e89da",
+        "file_path": "test_files/image.png",
+        "id": "1edeb05b-48b3-4ea4-b4c3-c9e1748aea7b",
+        "position": {
+            "0": [
+                "start",
+                [
+                    50,
+                    50
+                ]
+            ],
+            "100": [
+                "linear",
+                [
+                    50,
+                    50
+                ]
+            ]
+        },
+        "timeline_place": [
+            41856,
+            42856
+        ],
+        "type": "image",
+        "visual_effects": {}
+    },
+    {
+        "channel": "3004416c-fbfc-4243-8313-4f87c87e89da",
+        "file_path": "test_files/image.png",
+        "id": "7cfc9de2-dd76-40d3-a4d7-b755c9a57afc",
+        "position": {
+            "0": [
+                "start",
+                [
+                    50,
+                    50
+                ]
+            ],
+            "100": [
+                "linear",
+                [
+                    50,
+                    50
+                ]
+            ]
+        },
+        "timeline_place": [
+            57763,
+            61762
+        ],
+        "type": "image",
+        "visual_effects": {}
+    },
+    {
+        "channel": "3004416c-fbfc-4243-8313-4f87c87e89da",
+        "file_path": "test_files/image.png",
+        "id": "c0171b91-e9be-447a-80bc-503834029431",
+        "position": {
+            "0": [
+                "start",
+                [
+                    50,
+                    50
+                ]
+            ],
+            "100": [
+                "linear",
+                [
+                    50,
+                    50
+                ]
+            ]
+        },
+        "timeline_place": [
+            51244,
+            52244
+        ],
+        "type": "image",
+        "visual_effects": {}
+    },
+    {
+        "channel": "3004416c-fbfc-4243-8313-4f87c87e89da",
+        "file_path": "test_files/image.png",
+        "id": "dcb58bec-6867-474f-a094-bd3a1a6f3aa5",
+        "position": {
+            "0": [
+                "start",
+                [
+                    50,
+                    50
+                ]
+            ],
+            "100": [
+                "linear",
+                [
+                    50,
+                    50
+                ]
+            ]
+        },
+        "timeline_place": [
+            44855,
+            48854
+        ],
+        "type": "image",
+        "visual_effects": {}
+    },
+    {
+        "channel": "3004416c-fbfc-4243-8313-4f87c87e89da",
+        "file_path": "test_files/image.png",
+        "id": "45253f79-a66f-44a1-8299-40de90141acf",
+        "position": {
+            "0": [
+                "start",
+                [
+                    50,
+                    50
+                ]
+            ],
+            "100": [
+                "linear",
+                [
+                    50,
+                    50
+                ]
+            ]
+        },
+        "timeline_place": [
+            38596,
+            39596
+        ],
+        "type": "image",
+        "visual_effects": {}
+    },
+    {
+        "channel": "3004416c-fbfc-4243-8313-4f87c87e89da",
+        "file_path": "test_files/image.png",
+        "id": "34bde3fc-7b1f-4072-b97e-6c233823e714",
+        "position": {
+            "0": [
+                "start",
+                [
+                    50,
+                    50
+                ]
+            ],
+            "100": [
+                "linear",
+                [
+                    50,
+                    50
+                ]
+            ]
+        },
+        "timeline_place": [
+            31424,
+            35423
+        ],
+        "type": "image",
+        "visual_effects": {},
+        "__media_type": "image"
+    },
+    {
+        "__media_type": "image",
+        "channel": "3004416c-fbfc-4243-8313-4f87c87e89da",
+        "file_path": "test_files/image.png",
+        "id": "3e337bd5-9304-46a7-8cbf-cfa98ad48312",
+        "position": {
+            "0": [
+                "start",
+                [
+                    50,
+                    50
+                ]
+            ],
+            "100": [
+                "linear",
+                [
+                    50,
+                    50
+                ]
+            ]
+        },
+        "timeline_place": [
+            20863,
+            21863
+        ],
+        "type": "image",
+        "visual_effects": {}
+    },
+    {
+        "__media_type": "image",
+        "channel": "3004416c-fbfc-4243-8313-4f87c87e89da",
+        "file_path": "test_files/image.png",
+        "id": "3a878983-b31c-4b0f-8228-6f104c9b86b1",
+        "position": {
+            "0": [
+                "start",
+                [
+                    50,
+                    50
+                ]
+            ],
+            "100": [
+                "linear",
+                [
+                    50,
+                    50
+                ]
+            ]
+        },
+        "timeline_place": [
+            14082,
+            18081
+        ],
+        "type": "image",
+        "visual_effects": {}
+    },
+    {
+        "id": "30f0e4b9-aa1c-47ee-aead-dcbcf38469dd",
+        "type": "image",
+        "file_path": "test_files/image.png",
+        "channel": "3004416c-fbfc-4243-8313-4f87c87e89da",
+        "timeline_place": [
+            52287,
+            53287
+        ],
+        "position": {
+            "0": [
+                "start",
+                [
+                    50,
+                    50
+                ]
+            ],
+            "100": [
+                "linear",
+                [
+                    50,
+                    50
+                ]
+            ]
+        },
+        "visual_effects": {}
+    },
+    {
+        "id": "aa6f2464-b446-4c41-843b-2b5b346bce18",
+        "type": "image",
+        "file_path": "test_files/image.png",
+        "channel": "3004416c-fbfc-4243-8313-4f87c87e89da",
+        "timeline_place": [
+            23470,
+            27469
+        ],
+        "position": {
+            "0": [
+                "start",
+                [
+                    50,
+                    50
+                ]
+            ],
+            "100": [
+                "linear",
+                [
+                    50,
+                    50
+                ]
+            ]
+        },
+        "visual_effects": {}
+    },
+    {
+        "audio_effects": {},
+        "channel": "26cb828f-5be2-4433-8547-5029a4376d6d",
+        "file_path": "test_files/gta5.mp4",
+        "id": "450c4385-f5e8-42a5-bf82-c2b8704f5d5c",
+        "position": {
+            "0": [
+                "start",
+                [
+                    50,
+                    50
+                ]
+            ],
+            "100": [
+                "linear",
+                [
+                    50,
+                    50
+                ]
+            ]
+        },
+        "timeline_position": 0,
+        "timestamps": [
+            0,
+            22400.0
+        ],
+        "type": "video",
+        "visual_effects": {},
+        "__media_type": "video",
+        "__target_time": 16.370999999999718
+    },
+    {
+        "id": "366ff894-2d37-4ee5-8061-b6d69c137aec",
+        "type": "video",
+        "file_path": "test_files/gta5.mp4",
+        "channel": "26cb828f-5be2-4433-8547-5029a4376d6d",
+        "timeline_position": 66818,
+        "timestamps": [
+            34136,
+            75984
+        ],
+        "position": {
+            "0": [
+                "start",
+                [
+                    50,
+                    50
+                ]
+            ],
+            "100": [
+                "linear",
+                [
+                    50,
+                    50
+                ]
+            ]
+        },
+        "visual_effects": {},
+        "audio_effects": {},
+        "__media_type": "video",
+        "__target_time": 36.730666666666565
+    }
+]

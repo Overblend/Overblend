@@ -1,0 +1,29 @@
+[
+    {
+        "type": "project_information",
+        "name": "untitled.json",
+        "imported_toolkits": [
+            "default.toolkit"
+        ],
+        "imported_files": {},
+        "time_created": "2025-04-21T14:41:24.025863",
+        "base_quality": "1080",
+        "aspect_ratio": [
+            9,
+            16
+        ],
+        "section": [
+            0,
+            -1
+        ],
+        "preview_settings": {
+            "quality": "480",
+            "fps": 30
+        },
+        "export_settings": {
+            "quality": "1080",
+            "fps": 30
+        },
+        "tracks": []
+    }
+]

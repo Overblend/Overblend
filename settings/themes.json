@@ -1,0 +1,346 @@
+{
+    "default": {
+        "background": {
+            "main": "#111111",
+            "sidebar": "#1e1e1e",
+            "panel": "#1a1a1a",
+            "hover" : "#1a1a1a",
+            "secondary": "#222222",
+            "tertiary": "#2c2c2c"
+        },
+        "button": {
+            "default": "#2c2c2c",
+            "hover": "#3a3a3a",
+            "border": "#555555",
+            "border_dark": "#000000",
+            "checked_bg": "#3b49fc",
+            "checked_border": "#3b49fc",
+            "play": "#1e1e1e",
+            "play_hover": "#2a2a2a"
+        },
+        "text": {
+            "default": "#cccccc",
+            "highlight": "#ffffff",
+            "sidebar": "#aaaaaa",
+            "tick": "#cccccc",
+            "font": "default"
+        },
+        "accent": {
+            "primary": "#3b49fc",
+            "primary_hover": "#5c6cff"
+        },
+        "tick": {
+            "minor": "#666666",
+            "major": "#ff6b6b"
+        },
+        "slider": {
+            "groove": "#444444",
+            "handle": "#3b49fc",
+            "subpage": "#3b49fc",
+            "addpage": "#666666"
+        },
+        "container": {
+            "background": "#1e1e1e",
+            "border": "#444444"
+        },
+        "timeline": {
+            "background": "#222222",
+            "ruler": "#222222",
+            "body": "#1a1a1a"
+        },
+        "resize_handle": {
+            "default": "#555555",
+            "vertical": "#555555",
+            "grip": "#ffffff"
+        },
+        "dropdown": {
+            "background": "rgba(0, 0, 0, 160)",
+            "hover": "rgba(80, 80, 80, 200)",
+            "list_background": "#222222",
+            "selected_background": "#3b49fc",
+            "separator": "#444444"
+        },
+        "menu": {
+            "background": "rgba(30, 30, 30, 230)",
+            "border": "#ffffff",
+            "separator": "#555"
+        },
+        "playhead": {
+            "bar": "#3b49fc",
+            "triangle": "#3b49fc"
+        },
+        "assistant" : {
+                "name" : "BlendAI",
+                "description" : "Your AI video Editing Assistant.",
+                "entry_message" : "Hi! I'm BlendAI, your very own AI assistant. How can I help with your project today?"
+        },
+        "volume": {
+            "fill": "#3b49fc",
+            "mute_icon": "#ffffff",
+            "max_icon": "#ffffff"
+        },
+        "preview": {
+            "border": "#ffffff",
+            "background": "#000000"
+        },
+        "blendai" : {
+            "system_notification" : "rgba(0, 0, 0, 0.5)",
+            "user" : {
+                "background" : "#4d5bce",
+                "text" : "#ffffff"
+            },
+            "assistant" : {
+                "background" : "#2b2b2b",
+                "text" : "#f0f0f0"
+            },
+            "thinking_bubble" : "#2b2b2b",
+            "thinking_text" : "#ccc",
+            "input" : {
+                "area" : "rgba(20, 20, 20, 0.6)",
+                "active_background" : "#2e2e2e",
+                "inactive_border" : "#444",
+                "hover_border" : "#666",
+                "active_border" : "#4d5bce",
+                "disabled_border" : "#333",
+                "text" : "#eee",
+                "disabled_text" : "#777",
+                "disabled_background" : "#252525"
+            },
+            "send_message" : {
+                "inactive" : "#4d5bce",
+                "hover" : "#5d6bde",
+                "pressed" : "#3d4bbe",
+                "disabled" : "#444"
+            },
+            "scroll" : {
+                "background" : "rgba(40, 40, 40, 0.2)",
+                "handle" : "#4d5bce"
+            },
+            "separator" : "#333"
+        },
+        "code_viewer": {
+            "background" : "rgba(30, 30, 30, 240)", 
+            "code_background" : "#2f2f2f",
+            "tab_bar_disabled" : "#1f1f1f",
+            "text_color" : "#f1f1f1"
+        },
+        "icons": {
+            "logo": "icons/logo.png",
+            "app_icon": "icons/icon.png",
+            "assistant":"icons/icon.png",
+            "file": "icons/file.png",
+            "loading":"icons/loading.gif",
+            "pipeline": "icons/pipeline.png",
+            "trash" : "icons/trash.png",
+            "workflow": "icons/workflow.png",
+            "automation" :"icons/automation.png",
+            "code": "icons/code.png",
+            "save": "icons/save.png",
+            "new": "icons/new.png",
+            "play": "icons/play.png",
+            "pause": "icons/pause.png",
+            "rewind": "icons/rewind.png",
+            "fastforward": "icons/fastforward.png",
+            "fullscreen": "icons/fullscreen.png",
+            "cut": "icons/cut.png",
+            "edit": "icons/edit.png",
+            "send": "icons/send.png",
+            "discard": "icons/discard.png",
+            "check":"icons/check.png",
+            "audio_fix": "icons/audio.png",
+            "subtitles": "icons/subtitles.png",
+            "blendai": "icons/blendai.png",
+            "toolkits": "icons/tools.png",
+            "video": "icons/video.png",
+            "text": "icons/text.png",
+            "elements": "icons/elements.png",
+            "settings": "icons/settings.png",
+            "mute": "icons/muet.png",
+            "volume": "icons/son.png",
+            "zoom_in": "icons/zoomin.png",
+            "zoom_out": "icons/zoomout.png",
+            "revert": "icons/revert.png",
+            "revert_back": "icons/revertback.png",
+            "aspect_ratios": {
+                "tiktok": "icons/tiktok.png",
+                "youtube": "icons/youtube.png",
+                "instagram": "icons/instagram.png",
+                "twitter": "icons/twitter.png",
+                "portrait": "icons/portrait.png",
+                "square": "icons/square.png",
+                "landscape": "icons/landscape.png",
+                "wide": "icons/wide.png"
+            },
+            "quality": {
+                "144p": "icons/144p.png",
+                "240p": "icons/240p.png",
+                "360p": "icons/360p.png",
+                "480p": "icons/480p.png",
+                "720p": "icons/720p.png",
+                "1080p": "icons/1080p.png"
+            }
+        },
+        "styles": {
+            "logo_button": "QPushButton {{ {}; border-radius:15px; border:none;}}",
+            "sidebar_text": "color: {}; font-size: 10px;",
+            "system_notification" : "{} color: {}; border-radius: 10px; padding: 5px 12px; font-size: 12px;",
+            "unsaved_changes_text": "color: {}; font-size: 14px;",
+            "sidebar_button": "QPushButton {{ {}; border: 1px solid {}; border-radius: 8px; }} QPushButton:hover {{ {}; }} QPushButton:checked {{ {}; border: 1px solid {}; }}",
+            "menu": "{}; border-radius: 12px;",
+            "top_left_menu_border": "background-color:{}; border-top-left-radius: 8px;",
+            "left_side_menu_border": "background-color:{}; white;border-top-left-radius: 8px;",
+            "bottom_right_menu_border": "background-color:{}; border-bottom-right-radius: 8px;",
+            "right_side_menu_border": "background-color:{}; border-bottom-right-radius: 8px;",
+            "menu_button": "QPushButton {{{};color: {}; border-radius: 6px; padding: 6px 10px; font-size: 14px; text-align: left; }} QPushButton:hover {{ {}  }}",
+            "preview_slider": " QSlider {{ background: transparent; }} QSlider::groove:horizontal {{ height: 6px; {} border-radius: 3px; }} QSlider::handle:horizontal {{ {} width: 12px; height: 12px; margin: -4px 0; border-radius: 6px; }} QSlider::sub-page:horizontal {{ {} }} QSlider::add-page:horizontal {{ {}  }}",
+            "top_buttons": "QPushButton {{ color: {}; {} border: 1px solid {}; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; padding: 4px 8px; font-size: 13px; }} QPushButton:hover {{ {} border-color: {}; }}",
+            "export_button" : "QPushButton {{ color: {}; {} border: 2px solid {}; border-radius: 8px; padding: 8px 20px; font-size: 13px;}} QPushButton:hover {{ {} border-color: {}; }}",
+            "fit_button" :  "QPushButton {{ color: {}; {} border: 1px solid {}; border-radius: 6px; padding: 6px 14px; font-weight: 600;font-size: 12px; }} QPushButton:hover {{ {}  border-color: {}; }}",
+            "button" : "QPushButton {{ color: {}; {} border: 1px solid {}; border-radius: 6px; padding: 6px 14px; font-size: 13px; font-weight: bold; }} QPushButton:hover {{ {} border-color: {}; }}",
+            "code_viewer" : " {} border-radius: 12px;",
+            "code_viewer_tab_widget" : "QTabBar::tab {{ {} color: {}; padding: 6px 12px; border: 1px solid {}; border-bottom: none; border-top-left-radius: 6px; border-top-right-radius: 6px; margin-right: 2px; }} QTabBar::tab:selected {{ {} color: {}; }} QTabWidget::pane {{ {} border: 1px solid {}; border-top: none; top: -1px; }} ",
+            "project_code" : "{} color: {}; border-radius: 6px; font-family: Consolas, monospace; font-size: 13px;",
+            "unsaved_changes" : " {} border-radius: 12px;",
+            "message" : "{} color: {}; padding: 12px 14px; font-size: 14px; border-radius: 18px;",
+            "thinking_bubble" : " {} border-radius: 16px;",
+            "thinking_text" : "color: {}; font-style: italic; font-size: 13px;",
+            "blendai_input" : "QTextEdit {{ {} color: {}; border: 1px solid {}; border-radius: 18px; padding: 10px 15px; font-size: 14px;}} QTextEdit:hover {{ border: 1px solid {} }} QTextEdit:focus {{ border: 1px solid {} }} QTextEdit:disabled {{ {} color: {}; border: 1px solid {};}}",
+            "chat_title" : "color: {}; font-weight: bold; font-size: 14px;",
+            "chat_input_area" : "#inputArea {{ {} border-radius: 20px; padding: 5px;}}",
+            "send_message" : "QPushButton {{ {} border-radius: 20px; padding: 8px; }} QPushButton:hover {{ {} }} QPushButton:pressed {{ {} }} QPushButton:disabled {{ {} }}",
+            "chat_scroll" : "QScrollArea {{ border: none; background: transparent; }} QScrollBar:vertical {{ {} width: 8px; margin: 0px; }} QScrollBar::handle:vertical {{ {} min-height: 30px; border-radius: 4px;}} QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {{ height: 0px;}} QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {{ background: transparent;}}",
+            "aspect_ratio_dropdown" : "QComboBox {{ {} color: {}; border: 1px solid {}; border-radius: 4px; padding: 4px 8px; font-size: 12px;}} QComboBox:hover {{ {} }} QComboBox::drop-down {{ border: none;}} QComboBox QAbstractItemView {{ color: {}; {} selection-background-color: {};}}",
+            "quality_dropdown" :  "QComboBox {{ {} color: {}; border: 1px solid {}; border-radius: 4px; padding: 4px 8px; font-size: 12px;}} QComboBox:hover {{ {} }} QComboBox QAbstractItemView {{ {} color: {}; selection-background-color: {}; }}",
+            "preview_button" :"QPushButton {{ {} border: 1px solid {}; border-radius: 6px; }} QPushButton:hover {{ {} }}",
+            "preview_widget" : "QWidget#preview_widget {{ background-color: #000000; border: 1px solid {} }}"
+        }
+    },
+    "pink_palette": {
+        "background": {
+            "main": "#1a0e1a",
+            "sidebar": "#2a162a",
+            "hover" : "#311a31",
+            "panel": "#1a0e1a",
+            "secondary": "#311a31",
+            "tertiary": "#402040"
+        },
+        "button": {
+            "default": "#663366",
+            "hover": "#884488",
+            "border": "#aa66aa",
+            "border_dark": "#330033",
+            "checked_bg": "#ff66cc",
+            "checked_border": "#ff66cc",
+            "play": "#2a162a",
+            "play_hover": "#3d1f3d"
+        },
+        "text": {
+            "default": "#f5c6f7",
+            "highlight": "#ffffff",
+            "sidebar": "#e6a9f0",
+            "tick": "#f5c6f7",
+            "font": "default"
+        },
+        "accent": {
+            "primary": "#ff66cc",
+            "primary_hover": "#ff99dd",
+            "danger": "rgba(255, 77, 140, 160)"
+        },
+        "tick": {
+            "minor": "#b36fb3",
+            "major": "#ff99cc"
+        },
+        "slider": {
+            "groove": "#884488",
+            "handle": "#ff66cc",
+            "subpage": "#ff66cc",
+            "addpage": "#aa66aa"
+        },
+        "container": {
+            "background": "#2a162a",
+            "border": "#884488"
+        },
+        "timeline": {
+            "background": "#311a31",
+            "ruler": "#311a31",
+            "body": "#1a0e1a"
+        },
+        "resize_handle": {
+            "default": "#aa66aa",
+            "vertical": "#aa66aa",
+            "grip": "#ffffff"
+        },
+        "dropdown": {
+            "background": "rgba(40, 0, 40, 0.7)",
+            "hover": "rgba(100, 20, 100, 0.8)",
+            "list_background": "#2a162a",
+            "selected_background": "#ff66cc",
+            "separator": "#884488"
+        },
+        "menu": {
+            "background": "rgba(40, 0, 40, 0.9)",
+            "border": "#ff66cc",
+            "separator": "#aa66aa"
+        },
+        "playhead": {
+            "bar": "#ff66cc",
+            "triangle": "#ff66cc"
+        },
+        "volume": {
+            "fill": "#ff66cc",
+            "mute_icon": "#ffffff",
+            "max_icon": "#ffffff"
+        },
+        "preview": {
+            "border": "#ffccff",
+            "background": "#000000"
+        },
+        "assistant": {
+            "name": "BlendAI",
+            "description": "Your AI video Editing Assistant.",
+            "entry_message": "Hi! I'm BlendAI, your very own AI assistant. How can I help with your project today?"
+        },
+        "blendai": {
+            "system_notification": "rgba(60, 0, 60, 0.4)",
+            "user": {
+            "background": "#ff66cc",
+            "text": "#ffffff"
+            },
+            "assistant": {
+            "background": "#3d1f3d",
+            "text": "#f5c6f7"
+            },
+            "thinking_bubble": "#3d1f3d",
+            "thinking_text": "#f5c6f7",
+            "input": {
+            "area": "rgba(40, 0, 40, 0.5)",
+            "active_background": "#4d1a4d",
+            "inactive_border": "#884488",
+            "hover_border": "#aa66aa",
+            "active_border": "#ff66cc",
+            "disabled_border": "#552255",
+            "text": "#f5c6f7",
+            "disabled_text": "#b36fb3",
+            "disabled_background": "#2a162a"
+            },
+            "send_message": {
+            "inactive": "#ff66cc",
+            "hover": "#ff99dd",
+            "pressed": "#cc3399",
+            "disabled": "#884488"
+            },
+            "scroll": {
+            "background": "rgba(80, 0, 80, 0.2)",
+            "handle": "#ff66cc"
+            },
+            "separator": "#aa66aa"
+        },
+        "code_viewer": {
+            "background": "rgba(40, 0, 40, 0.9)",
+            "code_background": "#2a162a",
+            "tab_bar_disabled": "#331933",
+            "text_color": "#f5c6f7"
+        }
+    
+    }
+}

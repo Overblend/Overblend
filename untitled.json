@@ -1,0 +1,37 @@
+[
+    {
+        "type": "project_information",
+        "name": "untitled.json",
+        "imported_toolkits": [
+            "default.toolkit"
+        ],
+        "imported_files": {},
+        "time_created": "2025-04-26T02:42:19.977135",
+        "base_quality": "1080",
+        "aspect_ratio": [
+            9,
+            16
+        ],
+        "section": [
+            0,
+            -1
+        ],
+        "preview_settings": {
+            "quality": "480",
+            "fps": 30
+        },
+        "export_settings": {
+            "quality": "1080",
+            "fps": 30
+        },
+        "tracks": [
+            {
+                "id": "278588d0-c2a1-4ad2-a558-34d3f0de964f",
+                "type": "video",
+                "z": 0,
+                "is_visible": true,
+                "is_muted": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+ajuste automatiquement les keyframes en fonction des effets (si c'est cut / aaccourci / rallongé lol).
+refonte ui.
+refonte keyframes.
+themes : 
+    breaking bad
+    roblox
+    minecraft
+- pouvoir chosiir bloc de minecraft à mettre dans le fond lol
+- fix la font qui change pas en faisant ctrl + t
